@@ -1,9 +1,11 @@
-I found this puzzle as part of ccf-nifes lifleine bulletin so i decided to write a python program to solve it.
+# Word Search Solver
+Solve puzzle crossword search 
 
-sheet1.txt contains the original crossword puzzle which i typed into the text file.
-find.txt contains the list of words to  be searched for
-found.txt contains words from find.txt as they are in sheet1.txt
+[![contribute optimizations](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Mastersam07/puzzle_word_search/issues)
 
-While using this program make sure your found.txt file is empty so as to enable the found words to be placed here.
-Feel free to try this program with other puzzle....
-Enjoy!
+## How To Use This Software
+* 
+* 
+* 
+* 
+
