@@ -4,7 +4,7 @@ Solves crossword puzzle search
 [![contribute optimizations](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/Mastersam07/puzzle_word_search/issues)
 
 ## How To Use This Software
-Ensure that you have wamp/xampp/lampp installed on your machine
+Ensure that you have python 3.+ installed on your machine. Version for python 2 to be released at later date
 
 * Clone this repository
 * Enter crossword puzzle as it appears into sheet1.txt
